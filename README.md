@@ -25,7 +25,7 @@ for any of the frp_scatter.* files, one would need to create an account with plo
 # Best Practice
 We created this project using Google's Colabaratory. As such, much of the code base is used to work in tandem with Colabatory and we HIGHLY reccomend the *.ipyb files. 
 
-# Best Practice
+# Genomic Data
 Genomic data notoriously creates large files. As such please see the link for the data we used for the project below:
 https://drive.google.com/open?id=1o65X0Pf_LyhtNWquEFWOPNSw8Y0KOgfE
 
