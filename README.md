@@ -14,7 +14,7 @@ Within this file you'll find numerous files that were required for Practical Int
 * small.csv- *test data that was used and contains only one genome, but is too large for github. linked below*
   
 # Working with Plot.ly
-for any of the frp_scatter.* files, one would need to create an account with plot.ly and get input the user's unique username and API Key. 
+for any of the frp_scatter.* files, one would need to create an account with plot.ly and obtain a unique username and API Key. 
 1. To obtain your key/username sign up at https://plot.ly/Auth/login/?next=%2Fsettings. 
 2. You will be given a username. 
 3. Go to into the settings and on the left pane you will see API Keys, click it. 
