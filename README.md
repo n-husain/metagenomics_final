@@ -1,4 +1,4 @@
-#Images of HexPlot
+# Images of HexPlot
 ![](metagenomics_final/hex_plot.png)
 
 # Novel Methods for Visualizing Fragment Recruitment Plots
