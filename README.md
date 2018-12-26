@@ -1,3 +1,6 @@
+#Images of HexPlot
+![](metagenomics_final/hex_plot.png)
+
 # Novel Methods for Visualizing Fragment Recruitment Plots
 This repository is a collection of scripts and files used for Practical Introduction to Metagenomics
 
