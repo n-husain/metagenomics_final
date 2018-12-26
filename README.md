@@ -1,4 +1,4 @@
-# metagenomics_final
+# Novel Methods for Visualizing Fragment Recruitment Plots
 This repository is a collection of scripts and files used for Practical Introduction to Metagenomics
 
 # File Structure
