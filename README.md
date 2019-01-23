@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="https://drive.google.com/file/d/1meltj99yncJPAbQvffqDJXRfCHHrEcRO/view?usp=sharing">
-</p>
-
-
 # Novel Methods for Visualizing Fragment Recruitment Plots
 This repository is a collection of scripts and files used for Practical Introduction to Metagenomics
 
